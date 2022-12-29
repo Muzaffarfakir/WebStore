@@ -1,0 +1,56 @@
+body {
+  font-size: 15pt;
+}
+
+#container {
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  text-align: center;
+  display: grid;
+
+}
+
+
+
+h3 {
+  text-align: center;
+}
+
+input {
+  width: 76vw;
+  margin-left: 10px;
+  border-radius: 3px;
+  outline: none;
+
+}
+
+button {
+  width: 46px;
+  height: 30px;
+  border: 2px solid;
+  border-radius: 7px;
+  background-color: black;
+  color: ghostwhite;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  border: 2px solid;
+  border-radius: 27px;
+  margin-left: 10px;
+
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 1px;
+  text-align: center;
+  display: grid;
+
+
+
+}
